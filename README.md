@@ -1,8 +1,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luccan97&layout=compact)](https://github.com/Luccan97/github-readme-stats)
 
--  Working on Health Data Analytics
--  Skills: R, SQL, Markdown, Shiny, QGIS, Leaflet
+-  Seeking relationships and potentialities in the use of climate data in health services at the local level.
+-  Main Tech Skills: R, SQL, Markdown, Shiny, QGIS, Leaflet
 
 
 -->
